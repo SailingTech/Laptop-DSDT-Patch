@@ -11,21 +11,21 @@ Many of the battery patches were created over time, published as individual post
 by me on tonymacx86.com, and collected here in this repository.
 
 To add these patches to MaciASL as a repository:
-- Run MaciASL
-- choose Preferences from the MaciASL menu bar
-- select Sources
-- click the [+] button
+- 运行 MaciASL
+- 选择 Preferences from the MaciASL 菜单栏
+- 选择 Sources
+- 点击 这个 [+] 按钮
 - give it a name (eg. "Laptop Patches")
 - type the following URL: http://raw.github.com/RehabMan/Laptop-DSDT-Patch/master
 
 
 ### MaciASL and iasl
 
-I recommend you use my version of MaciASL: 
+大神RehabMan 推荐使用 MaciASL的版本: 
 
 https://github.com/RehabMan/OS-X-MaciASL-patchmatic
 
-And my version of iasl:
+iasl工具，大神RehabMan的版本  :
 
 https://github.com/RehabMan/Intel-iasl
 
